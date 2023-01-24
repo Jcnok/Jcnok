@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Julio Okuda</h1>
-<h3 align="center">Sou formado em Administração de redes, com MBA em Ciência de Dados, Matemática Financeira e Estatística. Estou me especializando em Cloud Computing. Sou entusiasta de Data Science, Data Analytics, BI, Machine Learning, Data Engineering, tudo que envolve dados e entregou alguma solução.</h3>
+<h3 align="center">Sou formado em Administração de redes, com MBA em Ciência de Dados, Matemática Financeira e Estatística. Estou me especializando em Cloud Computing. Sou entusiasta de Data Science, Data Analytics, BI, Machine Learning, Data Engineering, tudo que envolva dados e entregue alguma solução.</h3>
 
 <h3 align="left"> Badges:</h3>
 <p align="left">
