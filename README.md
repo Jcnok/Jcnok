@@ -8,6 +8,8 @@
 <img align="center" alt="jcnok-ai" title="AI-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/ai-azure.png?raw=true"></a>
 <a href="https://www.credly.com/badges/764c3754-5e27-42c6-90af-5955910f4a82/public_url">
 <img align="center" alt="jcnok-ai" title="DP-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/dp-azure.png?raw=true"></a><br>
+<a href="https://www.credly.com/badges/3a945518-fd65-448b-a1b1-9a938dd75683/public_url">
+<img align="center" alt="jcnok-ai" title="AWS-practitioner" src="https://github.com/Jcnok/Jcnok/blob/main/badges/aws-cloud-practitioner.png?raw=true"></a><br>
 </div>
   
 </p>
