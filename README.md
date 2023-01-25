@@ -47,9 +47,9 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcnok&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jcnok&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcnok&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jcnok&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jcnok&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jcnok&theme=vue)
 
 
 
