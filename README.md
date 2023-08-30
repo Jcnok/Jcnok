@@ -1,24 +1,32 @@
-<h1 align="center">Olá 👋, sou Julio Okuda</h1>
-<h3 align="center">Sou formado em Administração de redes, com MBA em Ciência de Dados, Matemática Financeira e Estatística. Estou me especializando em Cloud Computing. Sou entusiasta de Data Science, Data Analytics, BI, Machine Learning, Data Engineering, tudo que envolva dados e entregue alguma solução.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Julio+Okuda)](https://git.io/typing-svg)
+<h3 align="left">
+Sou formado em Adm. de redes, com MBAs em Ciência de Dados, Projetos em Cloud Computing e Matemática Financeira e Estatística. 
+
+Sou fascinado em tudo que envolva dados e entregue alguma solução.</h3>
 
 <h3 align="left"> Badges:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/41282a5b-4931-4be0-88ba-77a71be9e41e/public_url">
 <div style="display: inline_block"><br>
+<a href="https://www.credly.com/badges/41282a5b-4931-4be0-88ba-77a71be9e41e/public_url">
 <img align="center" alt="jcnok-ai" title="AI-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/ai-azure.png?raw=true"></a>
 <a href="https://www.credly.com/badges/764c3754-5e27-42c6-90af-5955910f4a82/public_url">
-<img align="center" alt="jcnok-ai" title="DP-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/dp-azure.png?raw=true"></a><br>
+<img align="center" alt="jcnok-ai" title="DP-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/dp-azure.png?raw=true"></a>
 <a href="https://www.credly.com/badges/3a945518-fd65-448b-a1b1-9a938dd75683/public_url">
-<img align="center" alt="jcnok-ai" title="AWS-practitioner" src="https://github.com/Jcnok/Jcnok/blob/main/badges/aws-cloud-practitioner.png?raw=true"></a><br>
+<img align="center" alt="jcnok-ai" title="AWS-practitioner" src="https://github.com/Jcnok/Jcnok/blob/main/badges/aws-cloud-practitioner.png?raw=true"></a></br>
 </div>
   
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcnok&label=Profile%20views&color=0e75b6&style=flat" alt="jcnok" /> </p>
-<a href="https://dev.to/jcnok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jcnok" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juliookuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliookuda" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jcnok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jcnok" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jcnok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jcnok" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcnok&label=Profile%20views&color=0e75b6&style=flat" alt="jcnok" /></p>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Conecte-se+comigo+%F0%9F%98%89!)](https://git.io/typing-svg)
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/julio_okuda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliookuda)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/Jcnok)
+
+
 </p>
 
 
@@ -47,6 +55,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
 </p>
 
+<h3 align="left"> GitHub Status:</h3>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jcnok&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jcnok&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jcnok&theme=vue)
@@ -55,15 +65,23 @@
 
 <h4 align="left">
 <p align="left"> 
-
-<details>
-<summary>Projetos...</summary>
 </p>
+<details>
+<summary>Meus Projetos...</summary>
+
+Projeto|Detalhes
+:---:|:---:|
+[Potência Tech powered by iFood - Ciências de Dados com Python ](https://github.com/Jcnok/Potencia_Tech_powered_by_iFood-Ciencias_de_Dados_com_Python#potencia_tech_powered_by_ifood-ciencias_de_dados_com_python)|Repositório com minha resolução dos desafios propostos do bootcamp na DIO.
+[Formação Machine Learning Specialist](https://github.com/Jcnok/Formacao-Machine-Learning-Specialist-DIO#formacao-machine-learning-specialist-dio)| Repositório com a resolução dos desafios que realizei na formação Machine Learning Specialist na DIO.
+[BootCamps XP Educação](https://github.com/Jcnok/Bootcamps_XPe#reposit%C3%B3rio-com-todos-os-bootcamps-realizados-na-institui%C3%A7%C3%A3o-xpe)| Repositório com todos os Bootcamps realizados na Instituição XPe.
+[BootCamp Cloud AWS - DIO](https://github.com/Jcnok/Bootcamp-Cloud-AWS-DIO#bootcamp-cloud-aws---dio)| Repositório a resolução dos todos os desafios propostos.
+[BootCamp Unimed-BH Ciência de Dados](https://github.com/Jcnok/digitalinnovationone#1-bootcamp-unimed-bh-ci%C3%AAncia-de-dados)| Repositório com minha resolução dos desafios propostos, foram 11 desafios de projetos e 2 de código.
+[Análise de Turnover - FLAI](https://github.com/Jcnok/turnover#an%C3%A1lise-de-turnover)| O projeto envolve a criação de um Dashboard no PowerBi e o desenvolvimento de um modelo de classificação para predição de Turnover..
 </h4>
 
 <h4 align="left">
 <details>
-<summary>Trilha...</summary>
+<summary>Lista de Cursos que já participei e que recomento...</summary>
 
 Curso|Produtor|Obs
 :---:|:---:|:---:|
@@ -76,17 +94,11 @@ Curso|Produtor|Obs
 [Como Criar uma Solução Completa de Data Science](https://www.mariofilho.com/)| Mario Filho| Curso voltado para o publico intermediário-avançado - Ainda não finalizei, mas esse curso dispensa comentários - Dúvido de quem é da área que não tenha passado por aqui.
 [IAEXPERT](https://iaexpert.academy/cursos-assinatura/) | IA Expert Academy|Tenha acesso a mais de 60 cursos online sobre Inteligência Artificial e Ciência de Dados com certificado de conclusão, aulas extras, fórum para tirar dúvidas e novos conteúdos todo mês - Assinatura(preço é surreal pelo conteúdo)
 [EIA](https://www.eia.ai/a/ftohl)|Escola de Inteligência Artificial - Fernando Amaral | Conteúdo em formato de assinatura, são mais de 50 cursos, trilha para Ciência de Dados, Engenharia de Dados, BI. (preço extremamente baixo pelo conteúdo)
-[IGTI](https://www.igti.com.br/)|IGTI - Bootcamps| Fiz o bootcamp de Engenheiro de Machine Learning e gostei muito do formato deles. Possuem vários Bootcamps e MBA's voltados para área de dados. Eles sempre trazem novidades com eventos gratuitos.
-[Cognizant Cloud Data Engineer](https://www.dio.me/)| Digital Innovation One| Um programa repleto de cursos, mentorias técnicas e de soft skills, desafios de código e muito mais! Aqui você criará soluções Python - uma das principais linguagens de programação da atualidade, aprenderá os principais conceitos de big data e dará seus primeiros passos no ambiente de nuvem. Conteúdo Gratuito. Os cursos são mais voltados para devs mas são muito bons para ter uma base de conhecimento, além de abrir portas para vagas de emprego. 
-[Big Data Engineer](https://www.semantix.ai/academy)|Semantix Academy| Atualmente estou inscrito nesse curso gratuito, para participar existe um triagem com alguns testes, pois as vagas são limitadas. Eles sempre postam no site novas inscrições para Big Data Engineer, Big Data Science entre outros, normalmente o curso tem duração de 3 meses e envolvem muita pratica e testes, senão passar em alguma etapa dos testes é desclassificado e não consegue seguir adiante. 
+[IGTI/XPe](https://www.igti.com.br/)|XPe - Bootcamps| Fiz o bootcamp de Engenheiro de ML, Analista de BD, AWS Cloud, Azure Cloud e Arquiteto de ML, gostei muito do formato deles. Possuem vários Bootcamps e MBA's voltados para área de dados. Eles sempre trazem novidades com eventos gratuitos também.
+[DIO](https://www.dio.me/)| Digital Innovation One - Bootcamps| Um programa repleto de cursos, mentorias técnicas e de soft e hard skills, desafios de código e muito mais! Participei do bootcamps: Potência Tech DS com Python, ML Specialist, Cloud AWS, Database Experience, Banco Carrefour Data Engineer, Aceleração Avanade-Senior Analytics, Geração Tech Unimed-BH Ciência de Dados. Os cursos são muito bons, além de abrir portas para vagas de emprego. 
+[Stack](https://stackacademy.com.br/)|Stack Academy| As trilhas são excelentes, comunidade bem ativa, eles promovem o StackLabs com Squads para desenvolver um projeto completo totalmente do zero e apresentar os resultados para uma banca de profissionais que irão te avaliar, totalmente mão na massa, vale muito à pena, tudo que precisa é de dedicação pois o conteúdo dos caras é top.
+[Semantix](https://www.semantix.ai/academy)|Semantix Academy| Cursos gratuitos, para participar existe um triagem com alguns testes, pois as vagas são limitadas. Eles sempre postam no site novas inscrições para Big Data Engineer, Big Data Science entre outros, normalmente o curso tem duração de 3 meses e envolvem muita pratica e testes, senão passar em alguma etapa dos testes é desclassificado e não consegue seguir adiante. 
 [Data Hackers](https://datahackers.com.br/)|Data Hackers| Faça parte da maior comunidade de Data Science do Brasil!
 </h4>
-<h4 align="left">
-<details>
-<summary>Trilha2...</summary>
-</h4>
-<br>
-<a href="https://www.buymeacoffee.com/juliookuda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jcnok"/>
-</a> 
-<a href="https://ko-fi.com/jcnok"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jcnok"/>
-</a> 
+
+
