@@ -7,6 +7,8 @@ Sou fascinado em tudo que envolva dados e entregue alguma solução.</h3>
 <h3 align="left"> Badges:</h3>
 <p align="left">
 <div style="display: inline_block"><br>
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/JulioCesar-0760/E0718E076EE1921E?sharingId=D149D7CA5B52C651">
+<img align="center" alt="jcnok-ai" title="Azure AI Engineer Associate" src="https://github.com/Jcnok/Jcnok/blob/main/badges/microsoft-certified-associate.svg?raw=true" width="125" height="125"></a>  
 <a href="https://www.credly.com/badges/41282a5b-4931-4be0-88ba-77a71be9e41e/public_url">
 <img align="center" alt="jcnok-ai" title="AI-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/ai-azure.png?raw=true"></a>
 <a href="https://www.credly.com/badges/764c3754-5e27-42c6-90af-5955910f4a82/public_url">
