@@ -4,6 +4,11 @@ Sou formado em Adm. de redes, com MBAs em Ciência de Dados, Projetos em Cloud C
 
 Sou fascinado em tudo que envolva dados e entregue alguma solução.</h3>
 
+### Citação Motivacional
+
+> "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar em movimento."  
+> — Albert Einstein
+
 <h3 align="left"> Badges:</h3>
 <p align="left">
 <div style="display: inline_block"><br>
@@ -102,5 +107,3 @@ Curso|Produtor|Obs
 [Semantix](https://www.semantix.ai/academy)|Semantix Academy| Cursos gratuitos, para participar existe um triagem com alguns testes, pois as vagas são limitadas. Eles sempre postam no site novas inscrições para Big Data Engineer, Big Data Science entre outros, normalmente o curso tem duração de 3 meses e envolvem muita pratica e testes, senão passar em alguma etapa dos testes é desclassificado e não consegue seguir adiante. 
 [Data Hackers](https://datahackers.com.br/)|Data Hackers| Faça parte da maior comunidade de Data Science do Brasil!
 </h4>
-
-
