@@ -6,8 +6,8 @@ Sou fascinado em tudo que envolva dados e entregue alguma solução.</h3>
 
 ### Citação Motivacional
 
-> "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar em movimento."  
-> — Albert Einstein
+> "Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."
+> — Paulo Freire
 
 <h3 align="left"> Badges:</h3>
 <p align="left">
@@ -95,7 +95,7 @@ Curso|Produtor|Obs
 [Introdução à Ciência da Computação com Python](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/home/welcome)|USP/Coursera|Curso excelente para quem deseja começar a programar em python. O curso é oferecido pela USP na plataforma do Coursera - Gratuíto, caso desejado poderá pagar uma taxa para obter o certificado.
 [Power BI para Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)| Data Science Academy|Curso oferecido pela DSA de forma gratuíta com certificado. São ao todo 72 horas de curso com muita mão da massa, vale a pena conferir.
 [Python Fundamentos para Análise de dados](https://www.datascienceacademy.com.br/course/python-fundamentos)|Data Science Academy|curso gratuito com certificado oferecido pela DSA, são 60 horas de conteúdo com muita teoria e prática. Conteúdo de extrema relevância.
-[Python para Data Science e Machine Learning](https://www.udemy.com/share/101WF03@WYSVeD3Fdrs-rwhsKJwMlZqf6FyU1R4pR6D0Rt4T9xlxjS-l6mLciJxI_CiZm--ZjA==/)|Udemy|Curso pago com certificado, possuí muito conteúdo para quem é iniciante de deseja aprender os principais métodos de Aprendizado de Máquina e Ciência de Dados com python. 
+[Python para Data Science e Machine Learning](https://www.udemy.com/share/101WF03@WYSVeD3Fdrs-rwhsKJwMlZqf6FyU1R4pR6D0Rt4T9xlxjS-l6mLciJxI_CiZm--ZjA==/)| Udemy|Curso pago com certificado, possuí muito conteúdo para quem é iniciante de deseja aprender os principais métodos de Aprendizado de Máquina e Ciência de Dados com python. 
 [Python do Zero](https://escola.sigmoidal.ai/curso-python-do-zero/)| Sigmoidal- Carlos Melo| Aprenda na prática com projetos reais totalmente mão na massa, o curso abrange desde a introdução ao python, manipulação de arquivos, automação, análise  e tratamento de dados, gráficos e storytelling, web scraping entre outros. Vale muito a pena.
 [Dominando Data Science](https://www.flai.com.br/dds/)| Flai | Divisor de águas na minha opnião aqui comecei a ter uma visão muito mais ampla sobre como gerar valor ao negócio, os Professores são fora da curva. Recomento muito esse curso, somos constantemente estimulados a por os projetos em prática.
 [Como Criar uma Solução Completa de Data Science](https://www.mariofilho.com/)| Mario Filho| Curso voltado para o publico intermediário-avançado - Ainda não finalizei, mas esse curso dispensa comentários - Dúvido de quem é da área que não tenha passado por aqui.
