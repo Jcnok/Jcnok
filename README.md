@@ -6,8 +6,8 @@ Sou fascinado em tudo que envolva dados e entregue alguma solução.</h3>
 
 ### Citação Motivacional
 
-> "Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção."
-> — Paulo Freire
+> "A inovação distingue um líder de um seguidor."
+> — Steve Jobs
 
 <h3 align="left"> Badges:</h3>
 <p align="left">
