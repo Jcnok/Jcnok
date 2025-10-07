@@ -6,7 +6,7 @@ Sou fascinado em tudo que envolva dados e entregue alguma solução.</h3>
 
 ### Citação Motivacional
 
-> "A inovação distingue um líder de um seguidor."
+> "O único modo de fazer um excelente trabalho é amar o que você faz."
 > — Steve Jobs
 
 <h3 align="left"> Badges:</h3>
